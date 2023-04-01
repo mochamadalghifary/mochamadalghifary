@@ -5,13 +5,11 @@
 
 <p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mochamadalghifary" alt="mochamadalghifary" /></a> </p>
 
-- 🔭 I’m currently working on [AJARI](https://play.google.com/store/apps/details?id=id.noersy.ajari&pli=1)
+- 💻 I’m currently working on [AJARI](https://play.google.com/store/apps/details?id=id.noersy.ajari&pli=1)
 
-- 🌱 I’m currently learning **Google Cloud Computing**
+- 📖 I’m currently learning **Google Cloud Computing**
 
 - 👨‍💻 Enjoy to sharing knowladge
-
-- 📝 I regularly write articles on [-](-)
 
 - 💬 Ask me about **UI/UX Design, Product Design, Cloud Computing**
 

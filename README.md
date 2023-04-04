@@ -11,7 +11,7 @@
 
 - 👨‍💻 Enjoy to sharing knowladge
 
-- 💬 Ask me about **UI/UX Design, Product Design, Cloud Computing, IT Infrastructure**
+- 💬 Ask me about **UI/UX Design, Product Design, Cloud Computing, IT Infrastructure.**
 
 - 📧 How to reach me **mochamadalghifary19@gmail.com**
 
